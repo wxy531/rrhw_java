@@ -11,8 +11,7 @@ _-------------------------------------------------------------------------------
 1. ______ The document is accepted pending the changes noted.
 1. ______ The document is not accepted.
 
-#### We fully accept the changes as needed improvements and authorize initiation of work to proceed. Based on our authority and 
-#### judgment, the continued operation of this system is authorized.
+#### We fully accept the changes as needed improvements and authorize initiation of work to proceed. Based on our authority and judgment, the continued operation of this system is authorized.
 ### USER'S MANUAL
 
 ## TABLE OF CONTENTS
