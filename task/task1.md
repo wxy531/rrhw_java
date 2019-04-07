@@ -1,1 +1,0 @@
-﻿# 与清华大学主页比较# perfomance reload time ## qinghua: 1000ms## sjtu:2300ms## 发现sjtu 主页Js文件太多
