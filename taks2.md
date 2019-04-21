@@ -1,0 +1,1 @@
+﻿﻿﻿#  task2##  测试了login的网址线程，只测了1000线程和5000线程，10000的时候程序崩了### jmeter![](jmeter1000.jpg)![](jmeter5000.jpg)### memory![](m1000.jpg)![](m5000.jpg)### cpu![](cpu1000.jpg)![](cpu5000.jpg)
