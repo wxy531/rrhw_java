@@ -1,0 +1,8 @@
+com\example\demo\DemoApplication.class
+com\example\demo\readword.class
+com\example\demo\Pair.class
+com\example\demo\SecurityConfiguration.class
+com\example\demo\controller.class
+com\example\demo\MyPasswordEncoder.class
+com\example\demo\UserDetailServiceImpl.class
+com\example\demo\hello.class
