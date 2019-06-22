@@ -1,0 +1,1 @@
+﻿##docker使用##没有拆成微服务##只是把第二次的demo mvn build到dockerhub上##spring 登陆的账号密码是rg2 123456##网址是https://hub.docker.com/r/wuyuexin66/demo
